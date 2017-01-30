@@ -18,7 +18,6 @@
     "tsc": "tsc",
     "tsc:w": "tsc -w",
     "lite": "lite-server",
-    "postinstall": "typings install",
     "test": "node ./node_modules/.bin/karma start"
   },
   "license": "ISC",
